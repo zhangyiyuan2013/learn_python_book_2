@@ -1,0 +1,8 @@
+size(640,640)
+background(255)
+fill(200)
+circle(320,320,300)
+fill(100)
+circle(320,320,250)
+fill(0)
+circle(320,320,200)
